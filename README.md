@@ -24,7 +24,7 @@ In no given order, here's a couple items we want to work on next:
 ![image](https://user-images.githubusercontent.com/96284235/146679379-73e58859-b322-4bf1-8c1f-bc709ce271ab.png)
 
 ## FAQ
-### 1. I'm getting an _Unknown publisher_ warning when trying to run the file.
+### 1. I'm getting an _Unknown publisher_ warning when trying to run the installer.
 This is a known issue. Please allow the app to run, so you can enjoy the ViewerStorm Browser. Once you have accepted it, you will never get the prompt again.
 
 First, click on _More info_ on the _Windows protected your PC_ popup. Then, click the _Run anyway_ button in the bottom right of the popup.
