@@ -41,4 +41,4 @@ The reason why we built this application is that we got tired of browsers changi
 By building our own application, we have more control over what browser version we use and work out any issues with new browser versions. This way, the ViewerStorm experience can remain stable for as many people as possible. 
 
 ### 3. I would like to report an issue!
-Awesome! Thank you for helping us improve the app. Please use the ViewerStorm Discord for your feedback.
+Awesome! Thank you for helping us improve the app. Please use the [ViewerStorm Discord](https://discord.com/invite/EbYrkTa) for your feedback.
