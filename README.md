@@ -3,8 +3,8 @@ Welcome to the official page for the ViewerStorm Browser!
 
 ## Features
 The browser is based on Chromium and features:
+- Custom ViewerStorm look and feel;
 - Responsive window;
-- Remember the window dimensions when reopening;
 - Automatic updates.
 
 ## Download
